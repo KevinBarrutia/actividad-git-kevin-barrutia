@@ -3,3 +3,12 @@ Actividad de Git
 Autor: Kevin Barrutia
 
 Versión: 1
+
+Usando Vim como editor de texto:
+
+1. Iniciar, Guardar y Salir.
+
+`:w` -> 	Guarda el archivo.
+`:q` -> 	Salir (falla si hay cambios sin guardar).
+`:wq` `:x` ->	Guardar y salir.	
+`:q!` ->	Salir sin guardar los cambios.
