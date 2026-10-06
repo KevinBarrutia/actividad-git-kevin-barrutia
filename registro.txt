@@ -12,3 +12,10 @@ Usando Vim como editor de texto:
 `:q` -> 	Salir (falla si hay cambios sin guardar).
 `:wq` `:x` ->	Guardar y salir.	
 `:q!` ->	Salir sin guardar los cambios.
+
+2. Modos de Vim.
+
+`Esc` ->	Modo normal.
+`i` ->		Insertar / editar texto.
+`:` -> 		Guardar, salir, configurar.
+`v` -> 		Seleccionar bloques de texto.
