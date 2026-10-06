@@ -34,3 +34,10 @@ Usando Vim como editor de texto:
 `o` -> Abrir una nueva línea abajo e ingresar a modo insert.
 `O` -> Abrir una nueva línea arriba e ingresar a modod insert.
 `A` -> Insertar al final de la línea actual.
+
+5. Edición, Copiar y Borrar.
+
+`x` -> Elimina el carácter bajo el cursor.
+`dd` -> Corta la línea completa.
+`dw` -> Elimina desde el cursor hasta el final de la palabara.
+`d$` `D` -> Eliminar desde el cursor hasta el final de la línea.
