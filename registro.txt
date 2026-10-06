@@ -19,3 +19,10 @@ Usando Vim como editor de texto:
 `i` ->		Insertar / editar texto.
 `:` -> 		Guardar, salir, configurar.
 `v` -> 		Seleccionar bloques de texto.
+
+3. Navegación en modo normal.
+
+`h` -> Izquierda.
+`j` -> Abajo.
+`k` -> Arriba.
+`l` -> Derecha.
