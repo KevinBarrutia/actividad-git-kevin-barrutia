@@ -26,3 +26,11 @@ Usando Vim como editor de texto:
 `j` -> Abajo.
 `k` -> Arriba.
 `l` -> Derecha.
+
+4. Desde modo Normal a Modo insertar.
+
+`i` -> insertar antes del cursor.
+`a` -> insertar después del cursor.
+`o` -> Abrir una nueva línea abajo e ingresar a modo insert.
+`O` -> Abrir una nueva línea arriba e ingresar a modod insert.
+`A` -> Insertar al final de la línea actual.
