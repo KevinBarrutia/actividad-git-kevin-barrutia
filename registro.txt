@@ -41,3 +41,5 @@ Usando Vim como editor de texto:
 `dd` -> Corta la línea completa.
 `dw` -> Elimina desde el cursor hasta el final de la palabara.
 `d$` `D` -> Eliminar desde el cursor hasta el final de la línea.
+
+Modificación Realizada desde Github.
